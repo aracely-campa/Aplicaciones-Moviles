@@ -38,7 +38,7 @@
             android:paddingHorizontal="@dimen/menu_buttons_padding"
             android:layout_marginRight="@dimen/menu_buttons_margin"
             android:layout_gravity="fill_horizontal"
-            android:layout_columnWight="1"
+
             android:textSize="@dimen/menu_buttons_text"
             android:paddingVertical="@dimen/input_margin_v"
             android:id="@+id/button_coldDrinks"
@@ -64,7 +64,7 @@
             android:paddingHorizontal="@dimen/menu_buttons_padding"
             android:layout_marginRight="@dimen/menu_buttons_margin"
             android:layout_gravity="fill_horizontal"
-            android:layout_columnWight="1"
+
             android:textSize="@dimen/menu_buttons_text"
             android:paddingVertical="@dimen/input_margin_v"
             android:id="@+id/sweets"
@@ -77,7 +77,7 @@
             android:paddingHorizontal="@dimen/menu_buttons_padding"
             android:layout_marginLeft="@dimen/menu_buttons_margin"
             android:layout_gravity="fill_horizontal"
-            android:layout_columnWight="1"
+
             android:textSize="@dimen/menu_buttons_text"
             android:paddingVertical="@dimen/input_margin_v"
             android:id="@+id/salties"
@@ -91,7 +91,7 @@
             android:paddingHorizontal="@dimen/menu_buttons_padding"
             android:layout_marginRight="@dimen/menu_buttons_margin"
             android:layout_gravity="fill_horizontal"
-            android:layout_columnWight="1"
+
             android:textSize="@dimen/menu_buttons_text"
             android:paddingVertical="@dimen/input_margin_v"
             android:id="@+id/buttons_combos"

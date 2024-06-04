@@ -13,18 +13,18 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         enableEdgeToEdge()
-        setContentView(R.layout.activity_register)
+        // setContentView(R.layout.activity_register) // Elimina esta línea si no quieres mostrar activity_register.xml
+
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
 
-        val button:Button = findViewById(R.id.button_get_start) as Button
+        val button: Button = findViewById(R.id.button_get_start) as Button
         button.setOnClickListener{
-            var intent: Intent =Intent (this, RegisterActivity::class.java)
+            val intent: Intent = Intent(this, RegisterActivity::class.java)
             startActivity(intent)
         }
     }
-
 }
