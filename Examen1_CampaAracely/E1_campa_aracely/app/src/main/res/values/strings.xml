@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">E1_campa_aracely</string>
+    //primer
+    <string name="original_price"></string>
+    <string name="diez_porciento">10</string>
+    <string name="quince_porciento">15</string>
+    <string name="veinte_porciento">20</string>
+    <string name="treinta_porciento">25</string>
+    <string name="cuarenta_porciento">40</string>
+    <string name="total">TOTAL</string>
+    <string name="tip">TIP</string>
+    <string name="discount">discount</string>
+</resources>
