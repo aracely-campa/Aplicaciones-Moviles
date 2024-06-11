@@ -64,10 +64,9 @@
             android:paddingHorizontal="@dimen/menu_buttons_padding"
             android:layout_marginRight="@dimen/menu_buttons_margin"
             android:layout_gravity="fill_horizontal"
-
             android:textSize="@dimen/menu_buttons_text"
             android:paddingVertical="@dimen/input_margin_v"
-            android:id="@+id/sweets"
+            android:id="@+id/button_sweets"
             />
 
         <Button
@@ -80,7 +79,7 @@
 
             android:textSize="@dimen/menu_buttons_text"
             android:paddingVertical="@dimen/input_margin_v"
-            android:id="@+id/salties"
+            android:id="@+id/button_salties"
             />
 
 
@@ -107,7 +106,7 @@
 
             android:textSize="@dimen/menu_buttons_text"
             android:paddingVertical="@dimen/input_margin_v"
-            android:id="@+id/custom"
+            android:id="@+id/button_custom"
             />
     </GridLayout>
 
