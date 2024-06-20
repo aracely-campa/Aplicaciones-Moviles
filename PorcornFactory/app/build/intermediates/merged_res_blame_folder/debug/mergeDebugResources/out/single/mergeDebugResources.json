@@ -1,0 +1,714 @@
+[
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_toystory.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\toystory.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_suits.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\suits.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_househeader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\househeader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_smallvilleheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\smallvilleheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_bonesheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\bonesheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "campa.aracely.porcornfactory.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "campa.aracely.porcornfactory.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_nineteensevent.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\nineteensevent.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_toystoryheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\toystoryheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\layout_activity_movie_detail.xml.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\layout\\activity_movie_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_leapyear.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\leapyear.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_suits.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\suits.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_drwho.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\drwho.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_toystory.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\toystory.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_inceptionheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\inceptionheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_drwho.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\drwho.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_popcorn.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\popcorn.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_friendsheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\friendsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_smallvilleheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\smallvilleheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_friends.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_headerbighero6.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\headerbighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_drwho.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\drwho.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_leapyearheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\leapyearheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_smallvilleheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\smallvilleheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_headerbighero6.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\headerbighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_popcorn.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\popcorn.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_leapyear.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\leapyear.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_friends.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_smallville.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\smallville.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_mibheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\mibheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_toystoryheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\toystoryheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_inceptionheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\inceptionheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_mib.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\mib.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_toystory.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\toystory.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_drwhoheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\drwhoheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_headerbighero6.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\headerbighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_smallvilleheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\smallvilleheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_drhouse.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\drhouse.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_drhouse.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\drhouse.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_leapyearheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\leapyearheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_toystoryheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\toystoryheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_suitsheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\suitsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_inception.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\inception.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable_radio_normal.xml.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable\\radio_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_nineteensevent.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\nineteensevent.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_drwhoheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\drwhoheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_suits.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\suits.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_mibheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\mibheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_suits.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\suits.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_friendsheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\friendsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_bighero6.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\bighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_toystory.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\toystory.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_suits.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\suits.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_bones.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\bones.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_friends.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_suitsheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\suitsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_friendsheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\friendsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_househeader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\househeader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_friends.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_nineteenseventheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\nineteenseventheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_inception.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\inception.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_smallville.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\smallville.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_friendsheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\friendsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_bones.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\bones.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_friendsheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\friendsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_leapyear.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\leapyear.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_drwhoheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\drwhoheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_bighero6.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\bighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_popcorn.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\popcorn.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_popcorn.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\popcorn.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_nineteenseventheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\nineteenseventheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_mibheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\mibheader.png"
+    },
+    {
+        "merged": "campa.aracely.porcornfactory.app-debug-31:/layout_activity_catalog.xml.flat",
+        "source": "campa.aracely.porcornfactory.app-main-33:/layout/activity_catalog.xml"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_leapyear.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\leapyear.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\layout_cell_movie.xml.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\layout\\cell_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_nineteenseventheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\nineteenseventheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_smallville.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\smallville.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_toystoryheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\toystoryheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_toystoryheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\toystoryheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_friendsheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\friendsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_inception.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\inception.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_bonesheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\bonesheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_mib.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\mib.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_inceptionheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\inceptionheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_househeader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\househeader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\layout_activity_seat_selection.xml.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\layout\\activity_seat_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_bighero6.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\bighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_inception.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\inception.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_mibheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\mibheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_bighero6.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\bighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_leapyearheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\leapyearheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_nineteenseventheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\nineteenseventheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_inceptionheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\inceptionheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_bonesheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\bonesheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_suitsheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\suitsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_leapyearheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\leapyearheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_drhouse.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\drhouse.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_bonesheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\bonesheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_bonesheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\bonesheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_househeader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\househeader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable_radio_disabled.xml.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable\\radio_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_suitsheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\suitsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_bones.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\bones.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_bones.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\bones.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_househeader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\househeader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_bones.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\bones.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_smallville.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\smallville.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_inceptionheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\inceptionheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_suitsheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\suitsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_mib.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\mib.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_nineteensevent.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\nineteensevent.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_inception.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\inception.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_bighero6.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\bighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_smallville.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\smallville.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_mibheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\mibheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_bones.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\bones.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_drwhoheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\drwhoheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_nineteenseventheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\nineteenseventheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_mib.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\mib.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_drwhoheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\drwhoheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_popcorn.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\popcorn.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_drhouse.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\drhouse.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_smallville.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\smallville.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_drhouse.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\drhouse.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_drwhoheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\drwhoheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable_round_button.xml.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_drwho.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\drwho.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_suitsheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\suitsheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_nineteensevent.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\nineteensevent.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_friends.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_inceptionheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\inceptionheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_nineteensevent.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\nineteensevent.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_drwho.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\drwho.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_smallvilleheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\smallvilleheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable_radio_selected.xml.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable\\radio_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_househeader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\househeader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_bonesheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\bonesheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\layout_activity_catalog.xml.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\layout\\activity_catalog.xml"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_leapyear.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\leapyear.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable_radio_selectable.xml.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable\\radio_selectable.xml"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_suits.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\suits.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_friends.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_leapyear.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\leapyear.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_leapyearheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\leapyearheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_headerbighero6.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\headerbighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_mibheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\mibheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_nineteenseventheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\nineteenseventheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_toystoryheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\toystoryheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_popcorn.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\popcorn.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_headerbighero6.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\headerbighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-pngs-27:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_drwho.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\drwho.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_headerbighero6.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\headerbighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_drhouse.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\drhouse.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_leapyearheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\leapyearheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-ldpi_smallvilleheader.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-ldpi\\smallvilleheader.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_nineteensevent.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\nineteensevent.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-hdpi_inception.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-hdpi\\inception.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_toystory.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\toystory.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xhdpi_bighero6.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xhdpi\\bighero6.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxxhdpi_mib.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxxhdpi\\mib.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-xxhdpi_mib.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-xxhdpi\\mib.png"
+    },
+    {
+        "merged": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-debug-31:\\drawable-mdpi_toystory.png.flat",
+        "source": "C:\\Users\\arace\\.gradle\\daemon\\8.6\\campa.aracely.porcornfactory.app-main-33:\\drawable-mdpi\\toystory.png"
+    }
+]

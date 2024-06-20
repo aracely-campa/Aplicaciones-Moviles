@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="almostblack">#1D1D1D</color>
+    <color name="babygray">#C5C5C5</color>
+    <color name="babymustard">#FFE252</color>
+    <color name="black">#FF000000</color>
+    <color name="grisclaro">#9E9E9E</color>
+    <color name="letra">#C5C5C5</color>
+    <color name="mustard">#FFD501</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <dimen name="buttonText">20sp</dimen>
+    <dimen name="descText">15sp</dimen>
+    <dimen name="hmrb">3dp</dimen>
+    <dimen name="hpradiogroup">10dp</dimen>
+    <dimen name="marginTopRadioGroup">30dp</dimen>
+    <dimen name="paddingButton">15dp</dimen>
+    <dimen name="radiobutton">60dp</dimen>
+    <dimen name="rbtext">20sp</dimen>
+    <dimen name="regText">14sp</dimen>
+    <dimen name="symbols">40dp</dimen>
+    <dimen name="title">25sp</dimen>
+    <dimen name="titleSize">20sp</dimen>
+    <string name="app_name">PorcornFactory</string>
+    <string name="movies">Movies</string>
+    <string name="series">Series</string>
+    <string name="start_button">get me in!</string>
+    <string name="welcome_text">Welcome to Popcorn Factory, home the best series and movies. Just lay down, make some
+    popcorn and enjoy!</string>
+    <style name="Base.Theme.PorcornFactory" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/almostblack</item>
+        <item name="colorPrimaryVariant">@color/almostblack</item>
+        <item name="colorOnPrimary">@color/babygray</item>
+        <item name="colorSecondary">@color/mustard</item>
+        <item name="colorSecondaryVariant">@color/babymustard</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+    <style name="Theme.PorcornFactory" parent="Base.Theme.PorcornFactory"/>
+</resources>
