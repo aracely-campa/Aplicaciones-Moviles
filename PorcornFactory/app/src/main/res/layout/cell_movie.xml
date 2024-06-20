@@ -16,6 +16,6 @@
         android:textColor="@color/mustard"
         android:textSize="15dp"
         android:fontFamily="sans-serif-light"
-        android:layout_gravity="center"
+        android:layout_gravity="center"/>
 
 </LinearLayout>

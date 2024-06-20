@@ -1,3 +1,8 @@
 package campa.aracely.porcornfactory
 
-data class Pelicula(var titulo: String, var image: Int, var sinopsis: String)
+data class Pelicula(
+    val titulo: String,
+    val image: Int,
+    val header: Int,
+    val sinopsis: String
+)
